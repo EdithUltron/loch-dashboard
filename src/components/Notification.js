@@ -6,7 +6,7 @@ import "./Notification.css"
 import { Checkbox } from "antd";
 
 
-const Notification = ({ type }) => {
+const Notification = ({ type,email }) => {
     
     const [checked, setchecked] = useState(true);
 
@@ -35,7 +35,7 @@ const Notification = ({ type }) => {
           </div>
           <div className='nfy__body'>{types[type].msg}</div>
           <div className='nfy__footer'>
-            <div className='nfy__box'>hello@gmail.com</div>
+            <div className='nfy__box'>{email}</div>
           </div>
         </>
       )}

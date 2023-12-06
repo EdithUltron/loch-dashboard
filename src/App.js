@@ -93,7 +93,7 @@ function App() {
                 responsive={responsive}>
                 <Notification type='3' />
                 <Notification type='2' />
-                <Notification type='1' />
+                <Notification type='1' email={email} />
               </Carousel>
             </div>
           </div>
