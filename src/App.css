@@ -8,9 +8,6 @@
   scroll-behavior: smooth;
 }
 
-/* body{
-  overflow: hidden;
-} */
 
 .App {
   text-align: center;
@@ -23,12 +20,13 @@
   display: flex;
 }
 
-.right{
-  overflow-y: hidden;
+.left::-webkit-scrollbar {
+  display: none;
 }
 
 .left{
 overflow-y: scroll;
+height: 100vh;
   padding-top: 5rem;
   padding-bottom: 5rem;
   padding-left: 2rem;
@@ -368,6 +366,8 @@ transition: all .5s ease;
 
   .left{
     padding: .2rem;
+    overflow-y: hidden;
+      height: auto !important;
   }
   .top__left,.top__right{
     width: 100%;
