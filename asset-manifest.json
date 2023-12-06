@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/loch-dashboard/static/css/main.81331ce4.css",
+    "main.css": "/loch-dashboard/static/css/main.b49778ff.css",
     "main.js": "/loch-dashboard/static/js/main.56781bbb.js",
     "static/js/787.59b54d88.chunk.js": "/loch-dashboard/static/js/787.59b54d88.chunk.js",
     "static/media/leftimg1.png": "/loch-dashboard/static/media/leftimg1.ba170fdfd610fabb2848.png",
@@ -15,12 +15,12 @@
     "static/media/bg1.svg": "/loch-dashboard/static/media/bg1.2a0c28da286903550952.svg",
     "static/media/clock.svg": "/loch-dashboard/static/media/clock.5a9427dd45802d3f81c235c2d7420c95.svg",
     "static/media/chart.svg": "/loch-dashboard/static/media/chart.ed5cd6b636e30ebcbd66031a8b8b4be6.svg",
-    "main.81331ce4.css.map": "/loch-dashboard/static/css/main.81331ce4.css.map",
+    "main.b49778ff.css.map": "/loch-dashboard/static/css/main.b49778ff.css.map",
     "main.56781bbb.js.map": "/loch-dashboard/static/js/main.56781bbb.js.map",
     "787.59b54d88.chunk.js.map": "/loch-dashboard/static/js/787.59b54d88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81331ce4.css",
+    "static/css/main.b49778ff.css",
     "static/js/main.56781bbb.js"
   ]
 }
